@@ -1,0 +1,9 @@
+/Users/sdpadmin/Desktop/repos/personal-task-manager/obj/Debug/net8.0/PersonalTaskManager.csproj.AssemblyReference.cache
+/Users/sdpadmin/Desktop/repos/personal-task-manager/obj/Debug/net8.0/PersonalTaskManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sdpadmin/Desktop/repos/personal-task-manager/obj/Debug/net8.0/PersonalTaskManager.AssemblyInfoInputs.cache
+/Users/sdpadmin/Desktop/repos/personal-task-manager/obj/Debug/net8.0/PersonalTaskManager.AssemblyInfo.cs
+/Users/sdpadmin/Desktop/repos/personal-task-manager/obj/Debug/net8.0/PersonalTaskManager.csproj.CoreCompileInputs.cache
+/Users/sdpadmin/Desktop/repos/personal-task-manager/obj/Debug/net8.0/PersonalTaskManager.MvcApplicationPartsAssemblyInfo.cache
+/Users/sdpadmin/Desktop/repos/personal-task-manager/obj/Debug/net8.0/PersonalTaskManager.RazorAssemblyInfo.cache
+/Users/sdpadmin/Desktop/repos/personal-task-manager/obj/Debug/net8.0/PersonalTaskManager.RazorAssemblyInfo.cs
+/Users/sdpadmin/Desktop/repos/personal-task-manager/obj/Debug/net8.0/PersonalTaskManager.sourcelink.json
