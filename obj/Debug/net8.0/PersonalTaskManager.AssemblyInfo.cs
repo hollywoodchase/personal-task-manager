@@ -10,10 +10,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("PersonalTaskManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df2186943a971328deed59ac982b3625dfaeb9b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1db4ba127aa0150ff9d01a04443b8fc4cc47ecf1")]
 [assembly: System.Reflection.AssemblyProductAttribute("PersonalTaskManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PersonalTaskManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
